@@ -1,0 +1,62 @@
+body {
+    background-color: grey;
+    margin: 230px;
+    text-align: left;
+    font-size: 15px;
+}
+
+header {
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(196, 5, 196);
+    font-style: italic;
+    border-radius: 20px;
+}
+
+.formulario {
+    background-color: black;
+    font-size: 20px;
+    color: rgb(247, 51, 51);
+    text-align: center;
+    font-style: oblique;
+    border-radius: 20px;
+}
+
+.content {
+    margin: 10px;
+    color: rgb(247, 51, 51);
+    background-color: black;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+h5 {
+    font-size: 25px;
+} 
+
+h3 {
+    font-size: 30px;
+}
+
+th {
+    font-size: 25px;
+    margin: 100px;
+}
+button {
+    background-color: grey;
+    font-size: 25px;
+    font-style: initial;
+    border-radius: 15px;
+}
+
+input {
+    background-color: grey;
+    border-radius: 15px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+td {
+    font-size: 25px;
+    width: 50%;
+}
